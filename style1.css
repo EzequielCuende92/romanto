@@ -1,0 +1,8 @@
+*{
+    background-color: rgb(180, 138, 158);
+    text-align: center;
+}
+
+.enlaces{
+    display: inline-flex;
+}
